@@ -33,5 +33,9 @@ function fonts_url(){
 	return base_url()."_assets/fonts/";
 }
 
+function test(){
+
+}
+
 
 ?>
