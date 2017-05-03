@@ -98,5 +98,11 @@ defined('EXIT__AUTO_MAX')      OR define('EXIT__AUTO_MAX', 125); // highest auto
 define('_ENVIRONMENT', 'PRODUCTION', TRUE); 
 
 
-
+/*
+|---------------------
+|Synthia Core Version
+|---------------------
+|Current version
+*/
+define('_SYNTHIA_VERSION', 1.0.1);
 
