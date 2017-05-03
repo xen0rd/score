@@ -104,5 +104,5 @@ define('_ENVIRONMENT', 'PRODUCTION', TRUE);
 |---------------------
 |Current version
 */
-define('_SYNTHIA_VERSION', 1.0.1);
+define('_SYNTHIA_VERSION', '1.0.1');
 
