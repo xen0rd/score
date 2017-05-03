@@ -15,7 +15,6 @@ function render($page, $template, $data = null){
 }
 
 function title(){
-	$linux = null;
 	$CI =& get_instance();
 	$CI->load->model("user_model");
 	return $CI->user_model->title()->app_name;	 
