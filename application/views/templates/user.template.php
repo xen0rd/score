@@ -32,7 +32,7 @@ echo link_tag(css_url()."ionicons.min.css");
 					<!-- mini logo for sidebar mini 50x50 pixels -->
 					<span class="logo-mini">LOGO</span>
 					<!-- logo for regular state and mobile devices -->
-					<span class="logo-lg">BRAND NAME</span>
+					<span class="logo-lg">SYNTHIA</span>
 				</a>
 				
 				<nav class="navbar navbar-static-top" role="navigation">
