@@ -1,6 +1,6 @@
 <?php
 defined('BASEPATH') OR exit('No direct script access allowed');
-//TESSST
+//TES
 /**
  * Returns path of images folder
  * @return string
